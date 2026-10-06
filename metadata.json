@@ -1,0 +1,6 @@
+{
+  "name": "Community Health & Population Analytics",
+  "description": "Privacy-aware population analytics, disease awareness, blood donor & inventory tracking, area-wise analytics, and educational ML health risk insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
